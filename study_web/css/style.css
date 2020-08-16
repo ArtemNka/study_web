@@ -136,3 +136,23 @@ h6 {
   line-height: 20px;
   font-size:17px;
 }
+
+h1{
+  margin: 30px 0 30px 0;
+  font-weight: 700;
+  font-size:17px;
+  color: #f00f00;
+}
+
+.example-block{
+  margin: 0 0 30px 0;
+  overflow: auto;
+  max-height: 100px;
+  display: block;
+  border: 1px solid #000;
+}
+
+.example-string{
+  display: block;
+  border: 1px solid #000
+}
